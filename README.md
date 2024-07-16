@@ -12,5 +12,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a></p>
 <h2>⚡️ Contactos</h2>
+<center>
 <p><a target="_blank" href="https://www.youtube.com/@JuqnDev" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=#cc0000" alt="youtube" /></a></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juqn-Dev&show_icons=true&locale=en&layout=compact" alt="Juqn-Dev" /></p>
+</center>
