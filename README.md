@@ -1,4 +1,6 @@
-<h1>🌿 Juqn 🌿</h1>
+<center>
+  <img src="https://i.imgur.com/WDbo93N.png" />
+</center>
 <p>Desarrollador y diseñador</p>
 <h2>🌀 Lenguajes y herramientas.</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
